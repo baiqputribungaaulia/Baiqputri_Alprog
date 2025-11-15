@@ -15,7 +15,7 @@ print(type(kejujuran))
 
 
 
-
+#tugas
 nama = input("Masukkan nama anda : ")
 nim = int(input("Masukkan NIM anda : "))
 
